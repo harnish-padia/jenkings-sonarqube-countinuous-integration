@@ -1,0 +1,41 @@
+.Button{
+	width: 30%;
+	text-align: center;
+	display: inline-block;
+	border: 1px;
+	padding: 10px ;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 2px;
+	margin: 5px;
+
+}
+
+.Result{
+	width: 100%;
+	background-color: #eeeeff;
+	text-align: center;
+	display: inline-block;
+	border: none;
+	padding: 10px;
+	font-size: 16px;
+	margin: 5px;
+	border-radius: 2px;
+}
+
+.calci{
+	width: 50%;
+}
+
+.IO{
+	width: 38%;
+	text-align: center;
+	display: inline-block;
+	border: 1px;
+	padding: 10px ;
+	background-color: #eeeeff;
+	font-size: 16px;
+	border-radius: 2px;
+	margin: 5px;
+}
